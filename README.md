@@ -14,8 +14,8 @@ This repository documents my journey from Python fundamentals to Artificial Inte
 ## 📂 Current Progress
 
 - [x] Repository Setup
-- [x]Python Fundamentals
-- [ ] NumPy
+- [x] Python Fundamentals
+- [x] NumPy
 - [ ] Pandas
 - [ ] Machine Learning
 - [ ] Deep Learning

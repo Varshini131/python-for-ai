@@ -1,4 +1,4 @@
-# 🐍 Python for AI
+# Python for AI
 
 Welcome to my **Python for AI** learning repository.
 

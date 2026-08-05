@@ -8,7 +8,7 @@ import pandas as pd
 # Sample DataFrame
 data = {
     "Name": ["Alice", "Bob", "Charlie"],
-    "Age": [21, 22, 20],
+    "Age": [21, 22, 20],  
     "Marks": [90, 85, 95]
 }
 

@@ -36,7 +36,7 @@ python-for-ai/
 * [x] Python Fundamentals
 * [x] NumPy
 * [x] Pandas
-* [ ] Data Visualization
+* [x] Data Visualization
 * [ ] Machine Learning
 * [ ] Deep Learning
 * [ ] Generative AI & LLMs
